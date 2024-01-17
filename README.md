@@ -29,8 +29,6 @@ push the experience beyond the conference: https://blog.maxar.com/earth-intellig
 ## Volunteering
 
 ## Public Speaking
-    
-### Recent Appearances
   
 ## Accomplishments
 
