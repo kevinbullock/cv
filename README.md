@@ -1,17 +1,29 @@
 # Kevin Bullock
 
-_Software engineer and journalist based in Berlin 🇩🇪_ <br>
+_Business Development and Partnerships_ <br>
 
 [Email](mailto:kev.bullock10@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kevbullock/) / [GitHub](https://github.com/kevinbullock/) / [Twitter](https://twitter.com/kevin_bullock/) 
 
-## 👩🏼‍💻 Engineering Experience
+## Professional Summary
 
-**Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
+Experienced business development professional with strong background in partnerships and product management
+looking to focus this expertise into leadership in the geospatial and mapping industry. Track record includes: creating
+strategies to expand into new markets and forging partnerships that unlocked millions of dollars in recurring revenue
+with double-digit growth; driving product results by leveraging engineering and product development skills to launch
+new products; bringing highly creative thinking, self-motivation and a results-oriented mindset to lead cross-functional
+teams to achieve a common goal.
+
+## Employment History
+
+**Director of Strategic Partnerships** @ [Maxar](https://maxar.com/) _(Jan 2023 - Nov 2023)_ <br>
 No-code platform that enables professionals to build interactive applications.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
+  - Developed partnerships with world's largest technology companies in entertainment, media, and simulation industries.
+Created a market presence, going from an unknown entity to having executive level meetings.
+  - Responsible for developing business plans and identifying use cases to open and grow new markets. Pitched new concepts
+to leadership, negotiated terms, aligned multiple stakeholders, created required licensing and finalized contracts.
+  - Collaborated with Marketing and Communications teams to create a strong presence at new industry conferences, as an
+example Augmented World Expo, I gave a presentation, accepted the Best use of AI Auggie Award, and writing a recap blog to
+push the experience beyond the conference: https://blog.maxar.com/earth-intelligence/2023/in-awe-of-the-extended-reality-community
 <br><br>
 
 **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
