@@ -1,8 +1,8 @@
-# Carolyn Stransky
+# Kevin Bullock
 
 _Software engineer and journalist based in Berlin 🇩🇪_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:kev.bullock10@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kevbullock/) / [GitHub](https://github.com/kevinbullock/) / [Twitter](https://twitter.com/kevin_bullock/) 
 
 ## 👩🏼‍💻 Engineering Experience
 
