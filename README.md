@@ -22,7 +22,7 @@ Created a market presence, going from an unknown entity to having executive leve
 to leadership, negotiated terms, aligned multiple stakeholders, created required licensing and finalized contracts.
   - Collaborated with Marketing and Communications teams to create a strong presence at new industry conferences, as an
 example Augmented World Expo, I gave a presentation, accepted the Best use of AI Auggie Award, and writing a recap blog to
-push the experience beyond the conference: (https://blog.maxar.com/earth-intelligence/2023/in-awe-of-the-extended-reality-community)
+push the experience beyond the conference: [link](https://blog.maxar.com/earth-intelligence/2023/in-awe-of-the-extended-reality-community)
 <br><br>
 
 **Director of Business Development** @ [Maxar](https://www.maxar.com/) _(Jan 2016 - Dec 2022)_ <br>
