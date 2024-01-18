@@ -46,6 +46,21 @@ and articulate value proposition for all products and services.
 new business and brought end user requirements back into DigitalGlobe's product development teams.
 <br><br>
 
+**Lead Manager** @ [DigitalGlobe](https://www.digitalglobe.com/) _(Jan 2007 - Oct 2009)_ <br>
+  - Managed engineering team responsible for analyzing projects in the pipeline to determine feasibility and created project
+plans for the highest quality output.
+  - Oversaw aerial imagery procurement, production and partnerships for DigitalGlobe, which complemented satellite data and
+products.
+  - Fostered and managed a partnership with Microsoft to create the first high resolution imagery product of the United States
+and Europe.
+<br><br>
+
+**Engineering Director** @ [GlobeXplorer](https://www.digitalglobe.com/) _(Feb 2002 - Jan 2007)_ <br>
+  - Managed an engineering and development team of over 30 technicians.
+  - Created and optimized workflows to increase productivity while gaining efficiencies.
+  - Managed production pipeline for projects that provided geospatial data and services
+<br><br>
+
 ## Public Speaking
    - **Augmented World Expo (AWE) 2023**: Experience the Digital Twin Built for Connecting your XR Content with the Real World https://www.youtube.com/watch?v=rvIN9K7RYmw
    - **Academy Software Foundation (ASWF) 2023**: Maxar Satellite Imagery Goes 3D: Use Cases in Gaming, VFX, and Animation https://www.youtube.com/watch?v=RYRAvFpWKyk
