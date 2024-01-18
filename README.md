@@ -40,10 +40,13 @@ data with content like: https://explore.maxar.com/mapping-the-last-mile
 
 ## Public Speaking
   
-## Accomplishments
+## Personal
+   - Marathon runner, cyclist, hiker and lover of the outdoors. 
+   - Prioritize spending quality time with my three children. 
+   - I enjoy creating 3D visualizations and tinkering with video game development in my spare time. 
 
 ## Education
 
 Bachelor of Science, Mechanical & Aerospace Engineering @ [Arizona State University](https://www.asu.edu/) _(Sep 1998 - Jan 2002)_ <br>
-  - Graduated with honors, Summa Cum Laude 
+   - Graduated with honors, Summa Cum Laude 
 
