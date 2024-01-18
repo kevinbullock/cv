@@ -74,7 +74,7 @@ and Europe.
 
   - TechCrunch Uber to get satellite imagery from company that supplies Apple and Google: [link](https://techcrunch.com/2016/07/19/uber-digitalglobe/)
   - Predicting Road Surface Conditions for Autonomous Vehicles with Storm Desk: [link](https://blog.maxar.com/earth-intelligence/2020/predicting-road-surface-conditions-for-autonomous-vehicles-with-storm-desk)
-  - Solving Problems with Open Data Imagery: [link](https://aws.amazon.com/blogs/publicsector/solving-problems-with-open-data-imagery-qa-with-digitalglobe-and-hot/
+  - Solving Problems with Open Data Imagery: [link](https://aws.amazon.com/blogs/publicsector/solving-problems-with-open-data-imagery-qa-with-digitalglobe-and-hot/)
   - Bigfootprint [link](https://medium.com/@kevin_bullock/bigfootprint-5dbfa7871ead)
   - DigitalGlobe’s imagery aiding rescuers in disasters [link](https://www.bizjournals.com/denver/print-edition/2015/11/06/digitalglobe-s-imagery-aiding-rescuers-in.html)
   - Connected Crisis: [link](https://trajectorymagazine.com/connected-crisis/)
@@ -90,7 +90,7 @@ and Europe.
 ## Volunteering
    - Active volunteer, contributor and mentor with OpenStreetMap [link](https://www.openstreetmap.org)
    - Contributor with Humanitarian OpenStreetMap Team [link](https://www.hotosm.org/)
-   - Volunteer organizor for State of the Map US [link](https://openstreetmap.us/events/state-of-the-map-us/ [link](https://openstreetmap.us/news/2017/01/sotmus-2017-announcement/)
+   - Volunteer organizor for State of the Map US [link](https://openstreetmap.us/events/state-of-the-map-us/) [link](https://openstreetmap.us/news/2017/01/sotmus-2017-announcement/)
   
 ## Personal
    - Marathon runner, cyclist, hiker and lover of the outdoors. 
