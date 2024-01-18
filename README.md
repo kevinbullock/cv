@@ -51,6 +51,9 @@ new business and brought end user requirements back into DigitalGlobe's product 
    - **Academy Software Foundation (ASWF) 2023**: Maxar Satellite Imagery Goes 3D: Use Cases in Gaming, VFX, and Animation https://www.youtube.com/watch?v=RYRAvFpWKyk
    - **State of the Map US 2018**: Space to the Power of X https://www.youtube.com/watch?v=AI8e6EtSr3g
    - **State of the Map 2016** Trace from Space International https://www.youtube.com/watch?v=XDR3etu8z8Q
+   - **State of the Map US 2016**: Trace from Space
+   - **FOSS4G 2015** (Free Open Source Software For Geospatial): DigitalGlobe and Open Source https://vimeo.com/142215055
+   - **State of the Map US 2014**: Mapping the World in Raster https://www.youtube.com/watch?v=IyCeqMuBV98 
 
 ## Publications
 
