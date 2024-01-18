@@ -73,7 +73,7 @@ new business and brought end user requirements back into DigitalGlobe's product 
 ## Volunteering
    - Active volunteer, contributor and mentor with OpenStreetMap (https://www.openstreetmap.org).
    - Contributor with Humanitarian OpenStreetMap Team (https://www.hotosm.org/).
-   - Volunteer organizor for State of the Map US (https://openstreetmap.us/events/state-of-the-map-us/)
+   - Volunteer organizor for State of the Map US (https://openstreetmap.us/events/state-of-the-map-us/) https://openstreetmap.us/news/2017/01/sotmus-2017-announcement/
   
 ## Personal
    - Marathon runner, cyclist, hiker and lover of the outdoors. 
