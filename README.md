@@ -46,9 +46,13 @@ and articulate value proposition for all products and services.
 new business and brought end user requirements back into DigitalGlobe's product development teams.
 <br><br>
 
-## Volunteering
-
 ## Public Speaking
+
+
+## Volunteering
+   - Active volunteer, contributor and mentor with OpenStreetMap (https://www.openstreetmap.org).
+   - Contributor with Humanitarian OpenStreetMap Team (https://www.hotosm.org/).
+   - Volunteer organizor for State of the Map US (https://openstreetmap.us/events/state-of-the-map-us/)
   
 ## Personal
    - Marathon runner, cyclist, hiker and lover of the outdoors. 
