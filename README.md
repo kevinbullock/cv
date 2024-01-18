@@ -36,6 +36,16 @@ millions of dollars.
 data with content like: https://explore.maxar.com/mapping-the-last-mile 
 <br><br>
 
+**Senior Product Manager** @ [DigitalGlobe](https://www.digitalglobe.com/) _(Nov 2009 - Dec 2015)_ <br>
+  - Oversaw the launch of Global Basemap, the first global, high-resolution imagery service, which became the company's most
+popular product. Also managed the Advanced Ortho Series and Precision Aerial products.
+  - Wrote market and product requirements, and drove engineering and development to support and enhance products.
+  - Created, led and mentored a global team of product specialists embedded within sales and engineering to properly position
+and articulate value proposition for all products and services.
+  - Evangelized DigitalGlobe products and services within various vertical segments: identified market opportunities, developed
+new business and brought end user requirements back into DigitalGlobe's product development teams.
+<br><br>
+
 ## Volunteering
 
 ## Public Speaking
