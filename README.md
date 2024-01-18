@@ -57,10 +57,12 @@ new business and brought end user requirements back into DigitalGlobe's product 
 
 ## Publications
 
+  - TechCrunch Uber to get satellite imagery from company that supplies Apple and Google: https://techcrunch.com/2016/07/19/uber-digitalglobe/
   - Predicting Road Surface Conditions for Autonomous Vehicles with Storm Desk: https://blog.maxar.com/earth-intelligence/2020/predicting-road-surface-conditions-for-autonomous-vehicles-with-storm-desk
   - Solving Problems with Open Data Imagery: https://aws.amazon.com/blogs/publicsector/solving-problems-with-open-data-imagery-qa-with-digitalglobe-and-hot/
   - Bigfootprint https://medium.com/@kevin_bullock/bigfootprint-5dbfa7871ead
   - DigitalGlobe’s imagery aiding rescuers in disasters https://www.bizjournals.com/denver/print-edition/2015/11/06/digitalglobe-s-imagery-aiding-rescuers-in.html
+  - Connected Crisis: https://trajectorymagazine.com/connected-crisis/
 
 ## In the News
 
@@ -71,9 +73,9 @@ new business and brought end user requirements back into DigitalGlobe's product 
   - DigitalGlobe launches map crowdsourcing to assist Nepal quake relief https://www.denverpost.com/2015/04/27/digitalglobe-launches-map-crowdsourcing-to-assist-nepal-quake-relief/
 
 ## Volunteering
-   - Active volunteer, contributor and mentor with OpenStreetMap (https://www.openstreetmap.org).
-   - Contributor with Humanitarian OpenStreetMap Team (https://www.hotosm.org/).
-   - Volunteer organizor for State of the Map US (https://openstreetmap.us/events/state-of-the-map-us/) https://openstreetmap.us/news/2017/01/sotmus-2017-announcement/
+   - Active volunteer, contributor and mentor with OpenStreetMap https://www.openstreetmap.org.
+   - Contributor with Humanitarian OpenStreetMap Team https://www.hotosm.org/.
+   - Volunteer organizor for State of the Map US https://openstreetmap.us/events/state-of-the-map-us/ https://openstreetmap.us/news/2017/01/sotmus-2017-announcement/
   
 ## Personal
    - Marathon runner, cyclist, hiker and lover of the outdoors. 
