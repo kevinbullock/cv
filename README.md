@@ -1,6 +1,6 @@
 # Kevin Bullock
 
-_Business Development and Partnerships_ <br>
+_Business Development, Product Management and Partnerships_ <br>
 
 [Email](mailto:kev.bullock10@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kevbullock/) / [GitHub](https://github.com/kevinbullock/) / [Twitter](https://twitter.com/kevin_bullock/) 
 
@@ -25,6 +25,16 @@ example Augmented World Expo, I gave a presentation, accepted the Best use of AI
 push the experience beyond the conference: https://blog.maxar.com/earth-intelligence/2023/in-awe-of-the-extended-reality-community
 <br><br>
 
+**Director of Business Development** @ [Maxar](https://www.maxar.com/) _(Jan 2016 - Dec 2022)_ <br>
+  - Identified new markets for growth and expansion, developed market sizing, strategy and value propositions to strategically
+grow commercial business.
+  - Led outreach, networking and relationship development in new industries: Automotive, Logistics and Mobility, including
+major global Auto OEMs, and the largest delivery, ride share and mobility companies.
+  - Successfully onboarded several new customers and end users, resulting in recurring revenue valued at more than tens of
+millions of dollars.
+  - Created business and marketing plans to introduce and educate users on the value and benefits of geospatial and satellite
+data with content like: https://explore.maxar.com/mapping-the-last-mile 
+<br><br>
 
 ## Volunteering
 
