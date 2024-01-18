@@ -44,7 +44,6 @@ data with content like: https://explore.maxar.com/mapping-the-last-mile
 
 ## Education
 
-Arizona State University, Tempe 
-Bachelor of Science, Mechanical & Aerospace Engineering 
-SEPT. 1998 – JAN. 2002 | Summa Cum Laude 
+Bachelor of Science, Mechanical & Aerospace Engineering @ [Arizona State University](https://www.asu.edu/) _(Sep 1998 - Jan 2002)_ <br>
+  - Graduated with honors, Summa Cum Laude 
 
