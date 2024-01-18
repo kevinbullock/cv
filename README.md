@@ -47,7 +47,20 @@ new business and brought end user requirements back into DigitalGlobe's product 
 <br><br>
 
 ## Public Speaking
+   - **Augmented World Expo (AWE) 2023**: Experience the Digital Twin Built for Connecting your XR Content with the Real World https://www.youtube.com/watch?v=rvIN9K7RYmw
+   - **Academy Software Foundation (ASWF) 2023**: Maxar Satellite Imagery Goes 3D: Use Cases in Gaming, VFX, and Animation https://www.youtube.com/watch?v=RYRAvFpWKyk
+   - **State of the Map US 2018**: Space to the Power of X https://www.youtube.com/watch?v=AI8e6EtSr3g
+   - **State of the Map 2016** Trace from Space International https://www.youtube.com/watch?v=XDR3etu8z8Q
 
+## Publications
+
+  - Predicting Road Surface Conditions for Autonomous Vehicles with Storm Desk: https://blog.maxar.com/earth-intelligence/2020/predicting-road-surface-conditions-for-autonomous-vehicles-with-storm-desk
+  - Solving Problems with Open Data Imagery: https://aws.amazon.com/blogs/publicsector/solving-problems-with-open-data-imagery-qa-with-digitalglobe-and-hot/ 
+
+## In the News
+
+  - Tracking water-related disasters from space: https://www.9news.com/article/tech/science/tracking-water-related-disasters-from-space/73-340879357
+  - DigitalGlobe begins satellite imagery for OpenStreetMap: https://www.geospatialworld.net/news/digitalglobe-begins-satellite-imagery-openstreetmap/ 
 
 ## Volunteering
    - Active volunteer, contributor and mentor with OpenStreetMap (https://www.openstreetmap.org).
