@@ -58,7 +58,9 @@ new business and brought end user requirements back into DigitalGlobe's product 
 ## Publications
 
   - Predicting Road Surface Conditions for Autonomous Vehicles with Storm Desk: https://blog.maxar.com/earth-intelligence/2020/predicting-road-surface-conditions-for-autonomous-vehicles-with-storm-desk
-  - Solving Problems with Open Data Imagery: https://aws.amazon.com/blogs/publicsector/solving-problems-with-open-data-imagery-qa-with-digitalglobe-and-hot/ 
+  - Solving Problems with Open Data Imagery: https://aws.amazon.com/blogs/publicsector/solving-problems-with-open-data-imagery-qa-with-digitalglobe-and-hot/
+  - Bigfootprint https://medium.com/@kevin_bullock/bigfootprint-5dbfa7871ead
+  - DigitalGlobe’s imagery aiding rescuers in disasters https://www.bizjournals.com/denver/print-edition/2015/11/06/digitalglobe-s-imagery-aiding-rescuers-in.html
 
 ## In the News
 
