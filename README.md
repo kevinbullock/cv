@@ -106,4 +106,4 @@ Bachelor of Science, Mechanical & Aerospace Engineering @ [Arizona State Univers
 
 ## References
 
-Available on request or just read the comments to my LI post [here]
+Available on request or just read the comments to my LI post [here]https://www.linkedin.com/posts/kevbullock_my-ride-has-come-to-an-end-at-maxar-along-activity-7127320697172856834
