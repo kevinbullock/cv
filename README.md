@@ -4,7 +4,7 @@ _Business Development, Product Management and Partnerships_ <br>
 
 [Email](mailto:kev.bullock10@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kevbullock/) / [GitHub](https://github.com/kevinbullock/) / [Twitter](https://twitter.com/kevin_bullock/) 
 
-tl;dr passionate professional ready to add a ton of value to a cool company
+**tl;dr** passionate professional ready to add a ton of value to a cool company
 
 ## Professional Summary
 
@@ -104,3 +104,6 @@ and Europe.
 Bachelor of Science, Mechanical & Aerospace Engineering @ [Arizona State University](https://www.asu.edu/) _(Sep 1998 - Jan 2002)_ <br>
    - Graduated with honors, Summa Cum Laude 
 
+## References
+
+Available on request or just read the comments to my LI post [here]
