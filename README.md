@@ -38,7 +38,7 @@ millions of dollars.
 data with content like: [link](https://explore.maxar.com/mapping-the-last-mile) 
 <br><br>
 
-**Senior Product Manager** @ [DigitalGlobe](https://www.digitalglobe.com/) _(Nov 2009 - Dec 2015)_ <br>
+**Senior Product Manager** @ [DigitalGlobe](https://en.wikipedia.org/wiki/DigitalGlobe) _(Nov 2009 - Dec 2015)_ <br>
   - Oversaw the launch of Global Basemap, the first global, high-resolution imagery service, which became the company's most
 popular product. Also managed the Advanced Ortho Series and Precision Aerial products.
   - Wrote market and product requirements, and drove engineering and development to support and enhance products.
@@ -48,7 +48,7 @@ and articulate value proposition for all products and services.
 new business and brought end user requirements back into DigitalGlobe's product development teams.
 <br><br>
 
-**Lead Manager** @ [DigitalGlobe](https://www.digitalglobe.com/) _(Jan 2007 - Oct 2009)_ <br>
+**Lead Manager** @ [DigitalGlobe](https://en.wikipedia.org/wiki/DigitalGlobe) _(Jan 2007 - Oct 2009)_ <br>
   - Managed engineering team responsible for analyzing projects in the pipeline to determine feasibility and created project
 plans for the highest quality output.
   - Oversaw aerial imagery procurement, production and partnerships for DigitalGlobe, which complemented satellite data and
@@ -57,7 +57,7 @@ products.
 and Europe.
 <br><br>
 
-**Engineering Director** @ [GlobeXplorer](https://www.digitalglobe.com/) _(Feb 2002 - Jan 2007)_ <br>
+**Engineering Director** @ [GlobeXplorer](https://en.wikipedia.org/wiki/GlobeXplorer) _(Feb 2002 - Jan 2007)_ <br>
   - Managed an engineering and development team of over 30 technicians.
   - Created and optimized workflows to increase productivity while gaining efficiencies.
   - Managed production pipeline for projects that provided geospatial data and services
