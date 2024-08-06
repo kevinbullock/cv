@@ -17,8 +17,9 @@ teams to achieve a common goal.
 
 ## Employment History
 
-**Head of Partnerships** @ [DevelopmentSeed](https://www.developmentseed.org/) _(Feb 2024 - present)_ <br>
-  - Leading partnerships at DevSeed.
+**Head of Business Development and Partnerships** @ [DevelopmentSeed](https://www.developmentseed.org/) _(Feb 2024 - present)_ <br>
+  - Managing DevSeed's pipeline of business opportunties from ideas and leads, to proposals, to delivery of services.
+  - Developing strategic relationships with large organizations working on impactful problems such as Climate Change, Sustainability, Global Health, Resiliency, Environmental Quality and Earth Science.
 
 **Director of Strategic Partnerships** @ [Maxar](https://www.maxar.com/) _(Jan 2023 - Nov 2023)_ <br>
   - Developed partnerships with world's largest technology companies in entertainment, media, and simulation industries.
