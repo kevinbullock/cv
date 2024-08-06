@@ -4,7 +4,7 @@ _Business Development, Product Management and Partnerships_ <br>
 
 [Email](mailto:kev.bullock10@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kevbullock/) / [GitHub](https://github.com/kevinbullock/) / [Twitter](https://twitter.com/kevin_bullock/) 
 
-**tl;dr** passionate professional ready to add a ton of value to a cool company
+**tl;dr** passionate professional ready to add a lot of value to a company working on impactful problems
 
 ## Professional Summary
 
