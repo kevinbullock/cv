@@ -95,7 +95,8 @@ and Europe.
   - DigitalGlobe launches map crowdsourcing to assist Nepal quake relief [link](https://www.denverpost.com/2015/04/27/digitalglobe-launches-map-crowdsourcing-to-assist-nepal-quake-relief/)
 
 ## Volunteering
-   - Active volunteer, contributor and mentor with OpenStreetMap [link](https://www.openstreetmap.org)
+   - Greyshirt volunteer, Team Rubicon [link](https://teamrubiconusa.org/)
+   - Volunteer, contributor and mentor with OpenStreetMap [link](https://www.openstreetmap.org)
    - Contributor with Humanitarian OpenStreetMap Team [link](https://www.hotosm.org/)
    - Volunteer organizor for State of the Map US [link](https://openstreetmap.us/events/state-of-the-map-us/) [link](https://openstreetmap.us/news/2017/01/sotmus-2017-announcement/)
   
