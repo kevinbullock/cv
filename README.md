@@ -18,7 +18,7 @@ teams to achieve a common goal.
 ## Employment History
 
 **Head of Business Development and Partnerships** @ [DevelopmentSeed](https://www.developmentseed.org/) _(Feb 2024 - present)_ <br>
-  - Managing DevSeed's pipeline of business opportunties from ideas and leads, to proposals, to delivery of services.
+  - Managing Development Seed’s pipeline of business opportunities from concepts and initial discussions, developing ideas and leads, proposal writing, contracting, and delivery of services. 
   - Developing strategic relationships with large organizations working on impactful problems such as Climate Change, Sustainability, Global Health, Resiliency, Environmental Quality and Earth Science.
   - Enabling growth through customer engagements, conference attendance, public speaking, strategic communications and partner development. 
 
