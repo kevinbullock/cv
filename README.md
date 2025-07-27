@@ -8,34 +8,33 @@ _Business Development, Product Management and Partnerships_ <br>
 
 ## Professional Summary
 
-Experienced business development professional with strong background in partnerships and product management
-looking to focus this expertise into leadership in the geospatial and mapping industry. Track record includes: creating
+Experienced business development professional with a strong background in partnerships and product management, looking to focus this expertise into leadership in the geospatial and mapping industry. Track record includes: creating
 strategies to expand into new markets and forging partnerships that unlocked millions of dollars in recurring revenue
 with double-digit growth; driving product results by leveraging engineering and product development skills to launch
-new products; bringing highly creative thinking, self-motivation and a results-oriented mindset to lead cross-functional
+new products; bringing highly creative thinking, self-motivation, and a results-oriented mindset to lead cross-functional
 teams to achieve a common goal.
 
 ## Employment History
 
 **Head of Business Development and Partnerships** @ [DevelopmentSeed](https://www.developmentseed.org/) _(Feb 2024 - present)_ <br>
   - Managing Development Seed’s pipeline of business opportunities from concepts and initial discussions, developing ideas and leads, proposal writing, contracting, and delivery of services. 
-  - Developing strategic relationships with large organizations working on impactful problems such as Climate Change, Sustainability, Global Health, Resiliency, Environmental Quality and Earth Science.
-  - Enabling growth through customer engagements, conference attendance, public speaking, strategic communications and partner development. 
+  - Developing strategic relationships with large organizations working on impactful problems such as Climate Change, Sustainability, Global Health, Resiliency, Environmental Quality, and Earth Science.
+  - Enabling growth through customer engagements, conference attendance, public speaking, strategic communications, and partner development. 
 
 **Director of Strategic Partnerships** @ [Maxar](https://www.maxar.com/) _(Jan 2023 - Nov 2023)_ <br>
-  - Developed partnerships with world's largest technology companies in entertainment, media, and simulation industries.
-Created a market presence, going from an unknown entity to having executive level meetings.
+  - Developed partnerships with the world's largest technology companies in entertainment, media, and simulation industries.
+Created a market presence, going from an unknown entity to having executive-level meetings.
   - Responsible for developing business plans and identifying use cases to open and grow new markets. Pitched new concepts
 to leadership, negotiated terms, aligned multiple stakeholders, created required licensing and finalized contracts.
   - Collaborated with Marketing and Communications teams to create a strong presence at new industry conferences, as an
-example Augmented World Expo, I gave a presentation, accepted the Best use of AI Auggie Award, and writing a recap blog to
+example Augmented World Expo, I gave a presentation, accepted the Best use of AI Auggie Award, and wrote a recap blog to
 push the experience beyond the conference: [link](https://blog.maxar.com/earth-intelligence/2023/in-awe-of-the-extended-reality-community)
 <br><br>
 
 **Director of Business Development** @ [Maxar](https://www.maxar.com/) _(Jan 2016 - Dec 2022)_ <br>
-  - Identified new markets for growth and expansion, developed market sizing, strategy and value propositions to strategically
+  - Identified new markets for growth and expansion, developed market sizing, strategy, and value propositions to strategically
 grow commercial business.
-  - Led outreach, networking and relationship development in new industries: Automotive, Logistics and Mobility, including
+  - Led outreach, networking, and relationship development in new industries: Automotive, Logistics and Mobility, including
 major global Auto OEMs, and the largest delivery, ride share and mobility companies.
   - Successfully onboarded several new customers and end users, resulting in recurring revenue valued at more than tens of
 millions of dollars.
@@ -47,10 +46,10 @@ data with content like: [link](https://explore.maxar.com/mapping-the-last-mile)
   - Oversaw the launch of Global Basemap, the first global, high-resolution imagery service, which became the company's most
 popular product. Also managed the Advanced Ortho Series and Precision Aerial products.
   - Wrote market and product requirements, and drove engineering and development to support and enhance products.
-  - Created, led and mentored a global team of product specialists embedded within sales and engineering to properly position
-and articulate value proposition for all products and services.
+  - Created, led, and mentored a global team of product specialists embedded within sales and engineering to properly position,
+and articulate the value proposition for all products and services.
   - Evangelized DigitalGlobe products and services within various vertical segments: identified market opportunities, developed
-new business and brought end user requirements back into DigitalGlobe's product development teams.
+new business, and brought end user requirements back into DigitalGlobe's product development teams.
 <br><br>
 
 **Lead Manager** @ [DigitalGlobe](https://en.wikipedia.org/wiki/DigitalGlobe) _(Jan 2007 - Oct 2009)_ <br>
