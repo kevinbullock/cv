@@ -6,52 +6,48 @@ _Executive, Strategic Business Development, Product Management and Partnerships_
 
 ## Professional Summary
 
-Experienced business development professional and sales executive with a strong background in partnerships and product management. Track record includes: creating strategies to expand into new markets and forging partnerships that unlocked millions of dollars in recurring revenue with double-digit growth; driving product results by leveraging engineering and product development skills to launch new products; bringing highly creative thinking, self-motivation, and a results-oriented mindset to lead cross-functional teams to achieve a common goal.
+Experienced business development professional and sales executive with a strong background in partnerships and product management. Passionate about the transformative potential of AI and emerging technologies to solve complex business challenges. Experienced in helping enterprises navigate and adopt cutting-edge solutions, with a proven ability to translate technical capabilities into strategic business value and measurable outcomes.
+
+Track record includes: creating strategies to expand into new markets and forging partnerships that unlocked millions of dollars in recurring revenue with double-digit growth; driving product results by leveraging engineering and product development skills to launch new products; bringing highly creative thinking, self-motivation, and a results-oriented mindset to lead cross-functional teams to achieve a common goal.
 
 ## Employment History
 
 **Head of Business Development and Partnerships** @ [DevelopmentSeed](https://www.developmentseed.org/) _(Feb 2024 - present)_ <br>
   - Managing Development Seed’s pipeline of business opportunities from concepts and initial discussions, developing ideas and leads, proposal writing, contracting, and delivery of services. 
   - Developing strategic relationships with large organizations working on impactful problems such as Climate Change, Sustainability, Global Health, Resiliency, Environmental Quality, and Earth Science.
-  - Enabling growth through customer engagements, conference attendance, public speaking, strategic communications, and partner development. 
+  - Partnering with technology-forward organizations leveraging AI, GeospatialAI, GeoLLM, machine learning, and data science to address global challenges and improve quality of life.
+  - Serve as a trusted strategic advisor to C-suite executives at Fortune 500 companies, conducting needs assessments, developing custom solution architectures, and presenting business transformation roadmaps to executive leadership and board committees.
 
 **Director of Strategic Partnerships** @ [Maxar](https://www.maxar.com/) _(Jan 2023 - Nov 2023)_ <br>
-  - Developed partnerships with the world's largest technology companies in entertainment, media, and simulation industries.
-Created a market presence, going from an unknown entity to having executive-level meetings.
+  - Developed partnerships with leading technology companies, including Google, Meta, Microsoft, Adobe, and Epic Games. Successfully penetrated digitally-native markets, establishing Maxar as a strategic technology partner and achieving 300% growth in new vertical pipeline within 18 months.
+  - Acted as consultative technology advisor, leading discovery sessions with executive stakeholders to identify high-impact use cases and design tailored implementation strategies that aligned emerging technology capabilities with strategic business initiatives.
   - Responsible for developing business plans and identifying use cases to open and grow new markets. Pitched new concepts
-to leadership, negotiated terms, aligned multiple stakeholders, created required licensing and finalized contracts.
-  - Collaborated with Marketing and Communications teams to create a strong presence at new industry conferences, as an
-example Augmented World Expo, I gave a presentation, accepted the Best use of AI Auggie Award, and wrote a recap blog to
-push the experience beyond the conference: [link](https://blog.maxar.com/earth-intelligence/2023/in-awe-of-the-extended-reality-community)
-<br><br>
+to leadership, negotiated terms, aligned multiple stakeholders, created required licensing, and finalized contracts.
+  - Designed and executed go-to-market strategies for complex technical solutions. Demonstrated thought leadership through conference presentations and industry publications.
+  
 
 **Director of Business Development** @ [Maxar](https://www.maxar.com/) _(Jan 2016 - Dec 2022)_ <br>
-  - Identified new markets for growth and expansion, developed market sizing, strategy, and value propositions to strategically
-grow commercial business.
-  - Led outreach, networking, and relationship development in new industries: Automotive, Logistics and Mobility, including
-major global Auto OEMs, and the largest delivery, ride share and mobility companies.
-  - Successfully onboarded several new customers and end users, resulting in recurring revenue valued at more than tens of
-millions of dollars.
-  - Created business and marketing plans to introduce and educate users on the value and benefits of geospatial and satellite
-data with content like: [link](https://explore.maxar.com/mapping-the-last-mile) 
+  - Managed sophisticated enterprise sales cycles averaging 12-18 months with 10+ stakeholders, including technical evaluations, procurement processes, and executive approvals. Successfully closed deals ranging from $1M-$10M+ in annual recurring revenue.
+  - Evangelized emerging technology adoption across enterprise accounts. Identified new markets for growth and expansion, developed market sizing, strategy, and value propositions to strategically grow commercial business.
+  - Led outreach, networking, and relationship development in new industries: Automotive, Logistics and Mobility, including major global Auto OEMs, and the largest delivery, ride share, and mobility companies.
 <br><br>
 
 **Senior Product Manager** @ [DigitalGlobe](https://en.wikipedia.org/wiki/DigitalGlobe) _(Nov 2009 - Dec 2015)_ <br>
   - Oversaw the launch of Global Basemap, the first global, high-resolution imagery service, which became the company's most
 popular product. Also managed the Advanced Ortho Series and Precision Aerial products.
-  - Wrote market and product requirements, and drove engineering and development to support and enhance products.
+  - Mobilized cross-functional teams, including product, engineering, and partnerships, to deliver customer success. Wrote market and product requirements, and drove engineering and development to support and enhance products.
   - Created, led, and mentored a global team of product specialists embedded within sales and engineering to properly position,
 and articulate the value proposition for all products and services.
   - Evangelized DigitalGlobe products and services within various vertical segments: identified market opportunities, developed
-new business, and brought end user requirements back into DigitalGlobe's product development teams.
+new business, and brought end-user requirements back into DigitalGlobe's product development teams.
 <br><br>
 
 **Lead Manager** @ [DigitalGlobe](https://en.wikipedia.org/wiki/DigitalGlobe) _(Jan 2007 - Oct 2009)_ <br>
-  - Managed engineering team responsible for analyzing projects in the pipeline to determine feasibility and created project
-plans for the highest quality output.
-  - Oversaw aerial imagery procurement, production and partnerships for DigitalGlobe, which complemented satellite data and
+  - Managed an engineering team responsible for analyzing projects in the pipeline to determine feasibility and created a project
+plan for the highest quality output.
+  - Oversaw aerial imagery procurement, production, and partnerships for DigitalGlobe, which complemented satellite data and
 products.
-  - Fostered and managed a partnership with Microsoft to create the first high resolution imagery product of the United States
+  - Fostered and managed a partnership with Microsoft to create the first high-resolution imagery product of the United States
 and Europe.
 <br><br>
 
@@ -89,14 +85,13 @@ and Europe.
 
 ## Volunteering
    - Greyshirt volunteer, Team Rubicon [link](https://teamrubiconusa.org/)
-   - Volunteer, contributor and mentor with OpenStreetMap [link](https://www.openstreetmap.org)
+   - Volunteer, contributor, and mentor with OpenStreetMap [link](https://www.openstreetmap.org)
    - Contributor with Humanitarian OpenStreetMap Team [link](https://www.hotosm.org/)
-   - Volunteer organizor for State of the Map US [link](https://openstreetmap.us/events/state-of-the-map-us/) [link](https://openstreetmap.us/news/2017/01/sotmus-2017-announcement/)
+   - Volunteer organizer for State of the Map US [link](https://openstreetmap.us/events/state-of-the-map-us/) [link](https://openstreetmap.us/news/2017/01/sotmus-2017-announcement/)
   
 ## Personal
-   - Marathon runner, cyclist, hiker and lover of the outdoors. 
-   - Prioritize spending quality time with my three children. 
-   - I enjoy creating 3D visualizations and tinkering with video game development in my spare time. 
+   - Marathon runner, cyclist, hiker, and lover of the outdoors.
+   - Mobile app developer, game developer.
 
 ## Education
 
