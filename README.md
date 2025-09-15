@@ -1,18 +1,12 @@
 # Kevin Bullock
 
-_Business Development, Product Management and Partnerships_ <br>
+_Executive, Strategic Business Development, Product Management and Partnerships_ <br>
 
-[Email](mailto:kev.bullock10@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kevbullock/) / [GitHub](https://github.com/kevinbullock/) / [Twitter](https://twitter.com/kevin_bullock/) 
-
-**tl;dr** passionate professional ready to add a lot of value to a company working on impactful problems
+[Email](mailto:kev.bullock10@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kevbullock/) / [GitHub](https://github.com/kevinbullock/) / [HydraAtlas](https://apps.apple.com/us/app/hydraatlas/id6749492232) / [GeoGenius](https://geogenius.xyz/)
 
 ## Professional Summary
 
-Experienced business development professional with a strong background in partnerships and product management, looking to focus this expertise into leadership in the geospatial and mapping industry. Track record includes: creating
-strategies to expand into new markets and forging partnerships that unlocked millions of dollars in recurring revenue
-with double-digit growth; driving product results by leveraging engineering and product development skills to launch
-new products; bringing highly creative thinking, self-motivation, and a results-oriented mindset to lead cross-functional
-teams to achieve a common goal.
+Experienced business development professional and sales executive with a strong background in partnerships and product management. Track record includes: creating strategies to expand into new markets and forging partnerships that unlocked millions of dollars in recurring revenue with double-digit growth; driving product results by leveraging engineering and product development skills to launch new products; bringing highly creative thinking, self-motivation, and a results-oriented mindset to lead cross-functional teams to achieve a common goal.
 
 ## Employment History
 
