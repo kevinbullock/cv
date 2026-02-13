@@ -2,7 +2,7 @@
 
 _Executive, Strategic Business Development, Product Management and Partnerships_ <br>
 
-[Email](mailto:kev.bullock10@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kevbullock/) / [GitHub](https://github.com/kevinbullock/) / [HydraAtlas](https://apps.apple.com/us/app/hydraatlas/id6749492232) / [GeoGenius](https://geogenius.xyz/)
+[Email](mailto:kev.bullock10@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kevbullock/) / [GitHub](https://github.com/kevinbullock/) / [HydraAtlas](https://apps.apple.com/us/app/hydraatlas/id6749492232) / [StepAway](https://apps.apple.com/us/app/stepawayapp/id6748839810) / [GeoGenius](https://geogenius.xyz/)
 
 ## Professional Summary
 
